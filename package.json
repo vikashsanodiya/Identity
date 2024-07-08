@@ -4,7 +4,7 @@
   "version": "3.1.0",
   "type": "module",
   "license": "MIT",
-  "author": "arifszn",
+  "author": "vikashsanodiya",
   "repository": {
     "type": "git",
     "url": "https://github.com/@vikas-011/gitprofile.git"
@@ -26,7 +26,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@arifszn/blog-js": "^2.0.6",
+    "@vikashsanodiya/blog-js": "^2.0.6",
     "@types/react": "^18.3.1",
     "@types/react-dom": "^18.3.0",
     "@typescript-eslint/eslint-plugin": "^7.8.0",

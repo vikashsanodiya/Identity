@@ -5,9 +5,9 @@ const CONFIG = {
     username: 'vikas-011', // Your GitHub org/user name. (This is the only required config)
   },
   /**
-   * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
+   * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/vikashsanodiya/vikashsanodiya.github.io, set base to '/'.
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
-   * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
+   * for example your repository is at https://github.com/vikashsanodiya/portfolio, then set base to '/portfolio/'.
    */
   base: '',
   projects: {
@@ -20,12 +20,12 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: [], // These projects will not be displayed. example: ['vikashsanodiya/my-project1', 'vikashsanodiya/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['vikas-011/gitprofile', 'vikas-011/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['vikas-011/gitprofile', 'vikas-011/pandora'], // List of repository names to display. example: ['vikashsanodiya/my-project1', 'vikashsanodiya/my-project2']
       },
     },
     external: {
@@ -57,9 +57,9 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'vikash-sanodiya',
+    twitter: 'vikashsanodiya',
+    mastodon: 'vikashsanodiya@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -69,14 +69,14 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
+    medium: 'vikashsanodiya',
     dev: 'vikas011',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://www.vikashsanodiya.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'vikassanodiyap@gmail.com',
   },
   resume: {
     fileUrl:
@@ -235,7 +235,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/vikashsanodiya/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
